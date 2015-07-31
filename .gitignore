@@ -9,6 +9,7 @@ CONTRIBUTING.html
 tags
 coverage
 .DS_Store
+npm-debug.log
 docs
 browser/bitcore-dev.js
 browser/testdata.js

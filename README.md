@@ -1,6 +1,6 @@
 SJWcore coming soon..
 
-Dogecore
+SJWcore
 =======
 
 [![Build Status](https://travis-ci.org/bitpay/bitcore.svg?branch=master)](https://travis-ci.org/sjwcoin/core)
@@ -24,7 +24,9 @@ community needs reliable, open-source tools to implement SJWCoin apps and servic
 SJWcore runs on [node](http://nodejs.org/), and can be installed via [npm](https://npmjs.org/):
 
 ```
-npm install sjwcore
+git clone https://github.com/sjwcoin/sjwcore
+cd sjwcore
+npm install
 ```
 
 It is a collection of objects useful to SJWCoin applications; class-like idioms are enabled via[Soop](https://github.com/bitpay/soop).
